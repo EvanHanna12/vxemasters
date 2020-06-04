@@ -747,7 +747,7 @@ client.on("message", async message => {
     if (
       !message.guild
         .member(client.user)
-        .hasPermission(["KICK_MEMBERS", "ADMINISTRATOR"])
+        .hasPermission(["KICK_MEMBERS"])
     ) {
       return message.channel.send(
         "I don't have the permission to kick members... sorry..."
@@ -794,7 +794,7 @@ client.on("message", async message => {
     if (
       !message.guild
         .member(client.user)
-        .hasPermission(["BAN_MEMBERS", "ADMINISTRATOR"])
+        .hasPermission(["BAN_MEMBERS"])
     ) {
       return message.channel.send(
         "I don't have permission to ban members... sorry..."
