@@ -253,7 +253,6 @@ client.on("message", async message => {
       return message.channel.send(
         `My prefix has successfully been changed to \`${args[0]}\``)
          {allowedMentions: {parse: []}}
-      );
     }
   } //hope this works
   if (message.content.startsWith(`<@${client.user.id}>`)) {
