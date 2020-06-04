@@ -251,7 +251,7 @@ client.on("message", async message => {
       });
 
       return message.channel.send(
-        `My prefix has successfully been changed to \`${args[0]}\``
+        `My prefix has successfully been changed to \`${args[0]}\``)
          {allowedMentions: {parse: []}}
       );
     }
