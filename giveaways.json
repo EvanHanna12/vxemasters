@@ -1,0 +1,63 @@
+[
+  {},
+  {
+    "messageID": "717147446907502605",
+    "channelID": "716082050477588532",
+    "guildID": "715325279555551263",
+    "startAt": 1591051675334,
+    "endAt": 1591052275334,
+    "ended": true,
+    "winnerCount": 1,
+    "prize": "test",
+    "messages": {
+      "giveaway": "@everyone\n\n🎉🎉 **GIVEAWAY** 🎉🎉",
+      "giveawayEnded": "@everyone\n\n🎉🎉 **GIVEAWAY ENDED** 🎉🎉",
+      "inviteToParticipate": "React with 🎉 to participate!",
+      "timeRemaining": "Time remaining: **{duration}**",
+      "winMessage": "Congratulations, {winners}! You won **{prize}**!",
+      "embedFooter": "Powered by the discord-giveaways package",
+      "noWinner": "Giveaway cancelled, no valid participations.",
+      "winners": "winner(s)",
+      "endedAt": "End at",
+      "hostedBy": "Hosted by: {user}",
+      "units": {
+        "seconds": "seconds",
+        "minutes": "minutes",
+        "hours": "hours",
+        "days": "days",
+        "pluralS": false
+      }
+    },
+    "hostedBy": "♡BrxkenLimitedᵈᵉᵛ♡"
+  },
+  {
+    "messageID": "717157247376949259",
+    "channelID": "717157081513328651",
+    "guildID": "715325279555551263",
+    "startAt": 1591054011862,
+    "endAt": 1591054611862,
+    "ended": true,
+    "winnerCount": 2,
+    "prize": "20k Vxe Currency!",
+    "messages": {
+      "giveaway": "@everyone\n\n🎉🎉 **GIVEAWAY** 🎉🎉",
+      "giveawayEnded": "@everyone\n\n🎉🎉 **GIVEAWAY ENDED** 🎉🎉",
+      "inviteToParticipate": "React with 🎉 to participate!",
+      "timeRemaining": "Time remaining: **{duration}**",
+      "winMessage": "Congratulations, {winners}! You won **{prize}**!",
+      "embedFooter": "Powered by the discord-giveaways package",
+      "noWinner": "Giveaway cancelled, no valid participations.",
+      "winners": "winner(s)",
+      "endedAt": "End at",
+      "hostedBy": "Hosted by: {user}",
+      "units": {
+        "seconds": "seconds",
+        "minutes": "minutes",
+        "hours": "hours",
+        "days": "days",
+        "pluralS": false
+      }
+    },
+    "hostedBy": "♡BrxkenLimitedᵈᵉᵛ♡"
+  }
+]
