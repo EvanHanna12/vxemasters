@@ -35,9 +35,7 @@ const prefixes = require("./prefixes.json");
 
 const config = require("./config.json");
 const ownerIDs = [
-  "544676649510371328",
-  "459175543154147328",
-  "409859533691813889"
+  "511709669803294746"
 ];
 
 client.on("ready", async () => {
@@ -61,7 +59,7 @@ client.on("ready", async () => {
       `<a:Loading:708107557553569853> I'm ready to serve ${client.guilds.cache.size} guilds and ${client.users.cache.size} users!`
     )
     .setTimestamp();
-  client.channels.cache.get("710214316128862270").send(readyEmbed);
+  client.channels.cache.get("698589852819783721").send(readyEmbed);
 });
 
 client.on("guildMemberAdd", async gnMember => {
